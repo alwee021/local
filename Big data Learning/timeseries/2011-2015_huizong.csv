@@ -1,0 +1,10 @@
+no,Negative Log Likelihood,Mean Absolute Error,Root Mean Squared Error,Relative Absolute Error,Relative Squared Error,Coefficient of Determination
+"6,7,8",152.462326,46.719551,64.671272,0.870039,0.80713,0.19287
+"6,7,8,begin_day",145.912415,46.017628,59.801704,0.856967,0.690157,0.309843
+"6,7,8,year",144.465271,52.258734,59.672519,0.973193,0.687179,0.312821
+"6,7,8,year,begin_day,begin_month",142.874292,41.86258,50.226163,0.77959,0.486834,0.513166
+"6,7,8,begin_month",146.531495,52.264744,69.07821,0.973305,0.92088,0.07912
+"6,7,8,Week_Num",146.760755,49.684375,67.905534,0.925252,0.889879,0.110121
+"6,7,8,year,begin_day,begin_month,Week_Num",142.129008,44.616587,49.318758,0.830876,0.469402,0.530598
+"6,7,8,year,begin_day,begin_month,Week_Num,Vacation_Count",141.760821,40.312901,48.348855,0.750731,0.451121,0.548879
+"6,7,8,year,begin_day,begin_month,Week_Num,Vacation_Factor,Vacation_Count",147.576061,52.616426,73.000405,0.979584,1.028422,-0.028422
